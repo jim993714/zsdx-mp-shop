@@ -1,0 +1,10 @@
+{
+    "path": "pages/shop/goods-detail-flash/index",
+    "pageName": "goodsDetailFlash",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

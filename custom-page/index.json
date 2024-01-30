@@ -1,0 +1,7 @@
+{
+    "path": "pages/shop/custom-page/index",
+    "pageName": "customPage",
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

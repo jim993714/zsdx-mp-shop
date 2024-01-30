@@ -1,0 +1,10 @@
+{
+    "path": "pages/shop/order-detail/index",
+    "pageName": "orderDetail",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

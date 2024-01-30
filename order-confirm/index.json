@@ -1,0 +1,10 @@
+{
+    "path": "pages/shop/order-confirm/index",
+    "pageName": "orderConfirm",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "pageName": "orderAfterList",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "退款/售后",
+        "enablePullDownRefresh": true
+    }
+}

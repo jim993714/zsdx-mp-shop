@@ -1,0 +1,12 @@
+{
+    "path": "pages/shop/goods-detail/index",
+    "pageName": "goodsDetail",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "商品详情"
+
+    }
+}

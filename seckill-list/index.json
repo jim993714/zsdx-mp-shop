@@ -1,0 +1,8 @@
+{
+    "pageName": "seckillList",
+    "style": {
+        "navigationBarTitleText": "秒杀列表",
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true
+    }
+}

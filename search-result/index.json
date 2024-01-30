@@ -1,0 +1,9 @@
+{
+    "pageName": "searchResult",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "搜索结果",
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true
+    }
+}

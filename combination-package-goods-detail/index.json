@@ -1,0 +1,8 @@
+{
+    "path": "pages/shop/combination-package-goods-detail/index",
+    "pageName": "combinationPackageGoodsDetail",
+    "style": {
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom"
+    }
+}

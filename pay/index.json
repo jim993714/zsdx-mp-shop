@@ -1,0 +1,7 @@
+{
+    "pageName": "pay",
+    "style": {
+        "navigationBarTitleText": "支付",
+        "navigationStyle": "custom"
+    }
+}

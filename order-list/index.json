@@ -1,0 +1,11 @@
+{
+    "path": "pages/ucenter/order-list/index",
+    "auth": true,
+    "pageName": "orderList",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

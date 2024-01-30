@@ -1,0 +1,10 @@
+{
+    "path": "pages/shop/goods-detail-summer/index",
+    "pageName": "goodsDetailSummer",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

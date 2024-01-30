@@ -1,0 +1,10 @@
+{
+    "path": "pages/shop/goods-detail-discount/index",
+    "pageName": "goodsDetailDiscount",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "path": "pages/shop/pay-result/index",
+    "pageName": "payResult",
+    "globalStyle": {
+        "navigationStyle": "custom"
+    },
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

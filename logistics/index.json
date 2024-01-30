@@ -1,0 +1,8 @@
+{
+    "pageName": "logistics",
+    "style": {
+        "navigationBarTitleText": "物流信息",
+        "navigationStyle": "custom"
+    },
+    "path": "logistics/index"
+}
